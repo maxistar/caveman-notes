@@ -42,4 +42,3 @@ Check each output against the source:
 - **Critical details:** negations, conditions, quantities, dates, and uncertainty are unchanged.
 - **Brevity:** filler and duplication are removed without flattening nuance.
 
-Use `tests/cases.md` for manual acceptance tests.
